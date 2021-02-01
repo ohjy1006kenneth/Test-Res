@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Testing!\n";
+    std::cout << "Testing!" << endl;
 }
 
 
